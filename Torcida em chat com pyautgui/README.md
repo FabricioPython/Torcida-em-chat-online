@@ -1,6 +1,6 @@
 # Torcida: pyautogui
 
-Automação simples que acessa um site que faça uma tranmissão e permita a interação no chat. A função dele é flodar mensagens aleatórias armazenadas  em listas de tempo em tempo.
+Automação simples que acessa um site que faça uma transmissão e permita a interação no chat. A função dele é flodar mensagens aleatórias armazenadas  em listas de tempo em tempo.
 
 
 
